@@ -1,0 +1,817 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0199FD5B-CDD6-4AFE-989E-463CB64AB99B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Tik_TUT</RootNamespace>
+    <AssemblyName>Tik_TUT</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>C:\Users\DƯƠNGTHẠNHTÍN\Downloads\Bunifu_UI_v1.5.3\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="A_Manager\BasicConcepts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="A_Manager\BasicConcepts.Designer.cs">
+      <DependentUpon>BasicConcepts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="A_Manager\ConditionalsandLoops.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="A_Manager\ConditionalsandLoops.Designer.cs">
+      <DependentUpon>ConditionalsandLoops.cs</DependentUpon>
+    </Compile>
+    <Compile Include="A_Manager\DData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="A_Manager\DData.Designer.cs">
+      <DependentUpon>DData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="A_Manager\Functions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="A_Manager\Functions.Designer.cs">
+      <DependentUpon>Functions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="A_Manager\MoreOnClasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="A_Manager\MoreOnClasses.Designer.cs">
+      <DependentUpon>MoreOnClasses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="A_Manager\Objects.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="A_Manager\Objects.Designer.cs">
+      <DependentUpon>Objects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Basic Concepts\BCAssignment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Basic Concepts\BCAssignment.Designer.cs">
+      <DependentUpon>BCAssignment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Basic Concepts\BCBasicArithmetic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Basic Concepts\BCBasicArithmetic.Designer.cs">
+      <DependentUpon>BCBasicArithmetic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Basic Concepts\BCComments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Basic Concepts\BCComments.Designer.cs">
+      <DependentUpon>BCComments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Basic Concepts\BCGettingTheTools.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Basic Concepts\BCGettingTheTools.Designer.cs">
+      <DependentUpon>BCGettingTheTools.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Basic Concepts\BCHelloWorld.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Basic Concepts\BCHelloWorld.Designer.cs">
+      <DependentUpon>BCHelloWorld.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Basic Concepts\BCModule1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Basic Concepts\BCModule1.Designer.cs">
+      <DependentUpon>BCModule1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Basic Concepts\BCMoreonVariables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Basic Concepts\BCMoreonVariables.Designer.cs">
+      <DependentUpon>BCMoreonVariables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Basic Concepts\BCPrintingaText.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Basic Concepts\BCPrintingaText.Designer.cs">
+      <DependentUpon>BCPrintingaText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Basic Concepts\BCVariables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Basic Concepts\BCVariables.Designer.cs">
+      <DependentUpon>BCVariables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Basic Concepts\BCWhatisC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Basic Concepts\BCWhatisC.Designer.cs">
+      <DependentUpon>BCWhatisC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conditionals and Loops\BCWorkingwVariables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conditionals and Loops\BCWorkingwVariables.Designer.cs">
+      <DependentUpon>BCWorkingwVariables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CirticularButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CLogicalOperators.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CLogicalOperators.Designer.cs">
+      <DependentUpon>CLogicalOperators.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CModule2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CModule2.Designer.cs">
+      <DependentUpon>CModule2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CTheDoWhileLoop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CTheDoWhileLoop.Designer.cs">
+      <DependentUpon>CTheDoWhileLoop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CTheElse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CTheElse.Designer.cs">
+      <DependentUpon>CTheElse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CTheforLoop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CTheforLoop.Designer.cs">
+      <DependentUpon>CTheforLoop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CTheIfState.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CTheIfState.Designer.cs">
+      <DependentUpon>CTheIfState.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CTheSwitch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CTheSwitch.Designer.cs">
+      <DependentUpon>CTheSwitch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CTheWhileLoop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CTheWhileLoop.Designer.cs">
+      <DependentUpon>CTheWhileLoop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CUsingaWhileLoop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conditionals and Loops\CUsingaWhileLoop.Designer.cs">
+      <DependentUpon>CUsingaWhileLoop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataProvider.cs" />
+    <Compile Include="Data\DArrays.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data\DArrays.Designer.cs">
+      <DependentUpon>DArrays.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DArraysinCalculations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data\DArraysinCalculations.Designer.cs">
+      <DependentUpon>DArraysinCalculations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DDynamicMemory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data\DDynamicMemory.Designer.cs">
+      <DependentUpon>DDynamicMemory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DIntFloat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data\DIntFloat.Designer.cs">
+      <DependentUpon>DIntFloat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DIntroduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data\DIntroduction.Designer.cs">
+      <DependentUpon>DIntroduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DIntroductiontoPointers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data\DIntroductiontoPointers.Designer.cs">
+      <DependentUpon>DIntroductiontoPointers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DModule3Quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data\DModule3Quiz.Designer.cs">
+      <DependentUpon>DModule3Quiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DMoreonPointers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data\DMoreonPointers.Designer.cs">
+      <DependentUpon>DMoreonPointers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DMulti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data\DMulti.Designer.cs">
+      <DependentUpon>DMulti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DString.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data\DString.Designer.cs">
+      <DependentUpon>DString.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DTheSizeof.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data\DTheSizeof.Designer.cs">
+      <DependentUpon>DTheSizeof.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DUsingArrays.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data\DUsingArrays.Designer.cs">
+      <DependentUpon>DUsingArrays.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DVariableNaming.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data\DVariableNaming.Designer.cs">
+      <DependentUpon>DVariableNaming.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmError.Designer.cs">
+      <DependentUpon>frmError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funtions\FDefaultArguments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funtions\FDefaultArguments.Designer.cs">
+      <DependentUpon>FDefaultArguments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funtions\FFunction Overloading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funtions\FFunction Overloading.Designer.cs">
+      <DependentUpon>FFunction Overloading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funtions\FFunctionParameters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funtions\FFunctionParameters.Designer.cs">
+      <DependentUpon>FFunctionParameters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funtions\FFunctionswithMultipleParameters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funtions\FFunctionswithMultipleParameters.Designer.cs">
+      <DependentUpon>FFunctionswithMultipleParameters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funtions\FIntroductiontoFunctions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funtions\FIntroductiontoFunctions.Designer.cs">
+      <DependentUpon>FIntroductiontoFunctions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funtions\FModule4Quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funtions\FModule4Quiz.Designer.cs">
+      <DependentUpon>FModule4Quiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funtions\FPassbyReference.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funtions\FPassbyReference.Designer.cs">
+      <DependentUpon>FPassbyReference.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funtions\FPassingArrays.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funtions\FPassingArrays.Designer.cs">
+      <DependentUpon>FPassingArrays.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funtions\FRecursion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funtions\FRecursion.Designer.cs">
+      <DependentUpon>FRecursion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funtions\FTheRandFunction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funtions\FTheRandFunction.Designer.cs">
+      <DependentUpon>FTheRandFunction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MOC\MOCComposition1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MOC\MOCComposition1.Designer.cs">
+      <DependentUpon>MOCComposition1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MOC\MOCComposition2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MOC\MOCComposition2.Designer.cs">
+      <DependentUpon>MOCComposition2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MOC\MOCConstObjects.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MOC\MOCConstObjects.Designer.cs">
+      <DependentUpon>MOCConstObjects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MOC\MOCDestructure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MOC\MOCDestructure.Designer.cs">
+      <DependentUpon>MOCDestructure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MOC\MOCMemberInit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MOC\MOCMemberInit.Designer.cs">
+      <DependentUpon>MOCMemberInit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MOC\MOCOverloading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MOC\MOCOverloading.Designer.cs">
+      <DependentUpon>MOCOverloading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MOC\MOCQuiz6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MOC\MOCQuiz6.Designer.cs">
+      <DependentUpon>MOCQuiz6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MOC\MOCSelectionOperator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MOC\MOCSelectionOperator.Designer.cs">
+      <DependentUpon>MOCSelectionOperator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MOC\MOCSeperateFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MOC\MOCSeperateFile.Designer.cs">
+      <DependentUpon>MOCSeperateFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MOC\MOCTheFriend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MOC\MOCTheFriend.Designer.cs">
+      <DependentUpon>MOCTheFriend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MOC\MOCTheThis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MOC\MOCTheThis.Designer.cs">
+      <DependentUpon>MOCTheThis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Objects Class\OAbstraction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Objects Class\OAbstraction.Designer.cs">
+      <DependentUpon>OAbstraction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Objects Class\OConstructors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Objects Class\OConstructors.Designer.cs">
+      <DependentUpon>OConstructors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Objects Class\OEncapsulation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Objects Class\OEncapsulation.Designer.cs">
+      <DependentUpon>OEncapsulation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Objects Class\OExampleofaClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Objects Class\OExampleofaClass.Designer.cs">
+      <DependentUpon>OExampleofaClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Objects Class\OExampleofEncapsulation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Objects Class\OExampleofEncapsulation.Designer.cs">
+      <DependentUpon>OExampleofEncapsulation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Objects Class\OModule 5 Quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Objects Class\OModule 5 Quiz.Designer.cs">
+      <DependentUpon>OModule 5 Quiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Objects Class\OWhat isanObject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Objects Class\OWhat isanObject.Designer.cs">
+      <DependentUpon>OWhat isanObject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Objects Class\OWhatisaClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Objects Class\OWhatisaClass.Designer.cs">
+      <DependentUpon>OWhatisaClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User Control\UCAbout.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Control\UCAbout.Designer.cs">
+      <DependentUpon>UCAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\UCAdvanced.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Control\UCAdvanced.Designer.cs">
+      <DependentUpon>UCAdvanced.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\UCBeginner.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Control\UCBeginner.Designer.cs">
+      <DependentUpon>UCBeginner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\UCGuide.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Control\UCGuide.Designer.cs">
+      <DependentUpon>UCGuide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\UCHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Control\UCHome.Designer.cs">
+      <DependentUpon>UCHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\UCIntermediate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Control\UCIntermediate.Designer.cs">
+      <DependentUpon>UCIntermediate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\UCTeam.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Control\UCTeam.Designer.cs">
+      <DependentUpon>UCTeam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\UC_C++.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Control\UC_C++.Designer.cs">
+      <DependentUpon>UC_C++.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\UC_Profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Control\UC_Profile.Designer.cs">
+      <DependentUpon>UC_Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\USProficient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Control\USProficient.Designer.cs">
+      <DependentUpon>USProficient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+    <EmbeddedResource Include="A_Manager\BasicConcepts.resx">
+      <DependentUpon>BasicConcepts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="A_Manager\ConditionalsandLoops.resx">
+      <DependentUpon>ConditionalsandLoops.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="A_Manager\DData.resx">
+      <DependentUpon>DData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="A_Manager\Functions.resx">
+      <DependentUpon>Functions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="A_Manager\MoreOnClasses.resx">
+      <DependentUpon>MoreOnClasses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="A_Manager\Objects.resx">
+      <DependentUpon>Objects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Basic Concepts\BCAssignment.resx">
+      <DependentUpon>BCAssignment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Basic Concepts\BCBasicArithmetic.resx">
+      <DependentUpon>BCBasicArithmetic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Basic Concepts\BCComments.resx">
+      <DependentUpon>BCComments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Basic Concepts\BCGettingTheTools.resx">
+      <DependentUpon>BCGettingTheTools.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Basic Concepts\BCHelloWorld.resx">
+      <DependentUpon>BCHelloWorld.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Basic Concepts\BCModule1.resx">
+      <DependentUpon>BCModule1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Basic Concepts\BCMoreonVariables.resx">
+      <DependentUpon>BCMoreonVariables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Basic Concepts\BCPrintingaText.resx">
+      <DependentUpon>BCPrintingaText.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Basic Concepts\BCVariables.resx">
+      <DependentUpon>BCVariables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Basic Concepts\BCWhatisC.resx">
+      <DependentUpon>BCWhatisC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conditionals and Loops\BCWorkingwVariables.resx">
+      <DependentUpon>BCWorkingwVariables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conditionals and Loops\CLogicalOperators.resx">
+      <DependentUpon>CLogicalOperators.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conditionals and Loops\CModule2.resx">
+      <DependentUpon>CModule2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conditionals and Loops\CTheDoWhileLoop.resx">
+      <DependentUpon>CTheDoWhileLoop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conditionals and Loops\CTheElse.resx">
+      <DependentUpon>CTheElse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conditionals and Loops\CTheforLoop.resx">
+      <DependentUpon>CTheforLoop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conditionals and Loops\CTheIfState.resx">
+      <DependentUpon>CTheIfState.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conditionals and Loops\CTheSwitch.resx">
+      <DependentUpon>CTheSwitch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conditionals and Loops\CTheWhileLoop.resx">
+      <DependentUpon>CTheWhileLoop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conditionals and Loops\CUsingaWhileLoop.resx">
+      <DependentUpon>CUsingaWhileLoop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\DArrays.resx">
+      <DependentUpon>DArrays.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\DArraysinCalculations.resx">
+      <DependentUpon>DArraysinCalculations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\DDynamicMemory.resx">
+      <DependentUpon>DDynamicMemory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\DIntFloat.resx">
+      <DependentUpon>DIntFloat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\DIntroduction.resx">
+      <DependentUpon>DIntroduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\DIntroductiontoPointers.resx">
+      <DependentUpon>DIntroductiontoPointers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\DModule3Quiz.resx">
+      <DependentUpon>DModule3Quiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\DMoreonPointers.resx">
+      <DependentUpon>DMoreonPointers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\DMulti.resx">
+      <DependentUpon>DMulti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\DString.resx">
+      <DependentUpon>DString.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\DTheSizeof.resx">
+      <DependentUpon>DTheSizeof.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\DUsingArrays.resx">
+      <DependentUpon>DUsingArrays.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\DVariableNaming.resx">
+      <DependentUpon>DVariableNaming.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmError.resx">
+      <DependentUpon>frmError.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funtions\FDefaultArguments.resx">
+      <DependentUpon>FDefaultArguments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funtions\FFunction Overloading.resx">
+      <DependentUpon>FFunction Overloading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funtions\FFunctionParameters.resx">
+      <DependentUpon>FFunctionParameters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funtions\FFunctionswithMultipleParameters.resx">
+      <DependentUpon>FFunctionswithMultipleParameters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funtions\FIntroductiontoFunctions.resx">
+      <DependentUpon>FIntroductiontoFunctions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funtions\FModule4Quiz.resx">
+      <DependentUpon>FModule4Quiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funtions\FPassbyReference.resx">
+      <DependentUpon>FPassbyReference.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funtions\FPassingArrays.resx">
+      <DependentUpon>FPassingArrays.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funtions\FRecursion.resx">
+      <DependentUpon>FRecursion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funtions\FTheRandFunction.resx">
+      <DependentUpon>FTheRandFunction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MOC\MOCComposition1.resx">
+      <DependentUpon>MOCComposition1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MOC\MOCComposition2.resx">
+      <DependentUpon>MOCComposition2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MOC\MOCConstObjects.resx">
+      <DependentUpon>MOCConstObjects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MOC\MOCDestructure.resx">
+      <DependentUpon>MOCDestructure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MOC\MOCMemberInit.resx">
+      <DependentUpon>MOCMemberInit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MOC\MOCOverloading.resx">
+      <DependentUpon>MOCOverloading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MOC\MOCQuiz6.resx">
+      <DependentUpon>MOCQuiz6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MOC\MOCSelectionOperator.resx">
+      <DependentUpon>MOCSelectionOperator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MOC\MOCSeperateFile.resx">
+      <DependentUpon>MOCSeperateFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MOC\MOCTheFriend.resx">
+      <DependentUpon>MOCTheFriend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MOC\MOCTheThis.resx">
+      <DependentUpon>MOCTheThis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Objects Class\OAbstraction.resx">
+      <DependentUpon>OAbstraction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Objects Class\OConstructors.resx">
+      <DependentUpon>OConstructors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Objects Class\OEncapsulation.resx">
+      <DependentUpon>OEncapsulation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Objects Class\OExampleofaClass.resx">
+      <DependentUpon>OExampleofaClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Objects Class\OExampleofEncapsulation.resx">
+      <DependentUpon>OExampleofEncapsulation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Objects Class\OModule 5 Quiz.resx">
+      <DependentUpon>OModule 5 Quiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Objects Class\OWhat isanObject.resx">
+      <DependentUpon>OWhat isanObject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Objects Class\OWhatisaClass.resx">
+      <DependentUpon>OWhatisaClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="User Control\UCAbout.resx">
+      <DependentUpon>UCAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Control\UCAdvanced.resx">
+      <DependentUpon>UCAdvanced.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Control\UCBeginner.resx">
+      <DependentUpon>UCBeginner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Control\UCGuide.resx">
+      <DependentUpon>UCGuide.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Control\UCHome.resx">
+      <DependentUpon>UCHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Control\UCIntermediate.resx">
+      <DependentUpon>UCIntermediate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Control\UCTeam.resx">
+      <DependentUpon>UCTeam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Control\UC_C++.resx">
+      <DependentUpon>UC_C++.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Control\UC_Profile.resx">
+      <DependentUpon>UC_Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Control\USProficient.resx">
+      <DependentUpon>USProficient.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

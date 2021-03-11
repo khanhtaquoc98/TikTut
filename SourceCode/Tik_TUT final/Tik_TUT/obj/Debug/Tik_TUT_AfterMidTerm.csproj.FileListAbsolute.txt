@@ -1,0 +1,942 @@
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe.config
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.pdb
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csprojAssemblyReference.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.BCHelloWorld.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Form1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Properties.Resources.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAdvanced.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.UCBeginner.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCHome.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCIntermediate.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_C__.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_Profile.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.USProficient.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.GenerateResource.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CoreCompileInputs.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CopyComplete
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.exe
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.pdb
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe.config
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.pdb
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\MaterialSkin.dll
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csprojAssemblyReference.cache
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.BCHelloWorld.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWhatisC.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Form1.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Properties.Resources.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAdvanced.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.UCBeginner.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCHome.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCIntermediate.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_C__.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_Profile.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.USProficient.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.GenerateResource.cache
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CoreCompileInputs.cache
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CopyComplete
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.exe
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.pdb
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csprojAssemblyReference.cache
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCGettingTheTools.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.BCHelloWorld.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCPrintingaText.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWhatisC.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Con.BCWhatisC.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Form1.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Properties.Resources.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAdvanced.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.UCBeginner.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCHome.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCIntermediate.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_C__.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_Profile.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.USProficient.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.GenerateResource.cache
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CoreCompileInputs.cache
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.exe
+D:\LTTQ\Tik_TUT is new AfterMidTerm-20180519T021331Z-000\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.pdb
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\bin\Debug\Tik_TUT.exe.config
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\bin\Debug\Tik_TUT.exe
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\bin\Debug\Tik_TUT.pdb
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\bin\Debug\MaterialSkin.dll
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csprojAssemblyReference.cache
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.BasicConcepts.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.ConditionalsandLoops.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.DData.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Functions.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Objects.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCAssignment.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCBasicArithmetic.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCComments.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCGettingTheTools.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCHelloWorld.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCModule1.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCMoreonVariables.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCPrintingaText.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCVariables.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWhatisC.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWorkingwVariables.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CLogicalOperators.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CModule2.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheDoWhileLoop.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheElse.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheforLoop.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheIfState.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheSwitch.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheWhileLoop.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CUsingaWhileLoop.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Data.DArrays.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Data.DArraysinCalculations.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Data.DDynamicMemory.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntFloat.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroduction.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroductiontoPointers.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Data.DModule3Quiz.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Data.DMoreonPointers.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Data.DMulti.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Data.DString.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Data.DTheSizeof.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Data.DUsingArrays.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Data.DVariableNaming.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Form1.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FDefaultArguments.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunction_Overloading.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionParameters.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionswithMultipleParameters.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FIntroductiontoFunctions.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FModule4Quiz.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassbyReference.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassingArrays.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FRecursion.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FTheRandFunction.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OAbstraction.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OConstructors.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OEncapsulation.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofaClass.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofEncapsulation.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OModule_5_Quiz.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhat_isanObject.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhatisaClass.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.Properties.Resources.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAdvanced.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.UCBeginner.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCHome.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCIntermediate.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_C__.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_Profile.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.User_Control.USProficient.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.GenerateResource.cache
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CoreCompileInputs.cache
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CopyComplete
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.exe
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\TikTut\Tik_TUT\obj\Debug\Tik_TUT.pdb
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe.config
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.pdb
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\MaterialSkin.dll
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.BasicConcepts.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.ConditionalsandLoops.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.DData.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Functions.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Objects.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCAssignment.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCBasicArithmetic.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCComments.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCGettingTheTools.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCHelloWorld.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCModule1.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCMoreonVariables.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCPrintingaText.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCVariables.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWhatisC.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWorkingwVariables.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CLogicalOperators.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CModule2.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheDoWhileLoop.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheElse.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheforLoop.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheIfState.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheSwitch.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheWhileLoop.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CUsingaWhileLoop.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DArrays.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DArraysinCalculations.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DDynamicMemory.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntFloat.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroduction.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroductiontoPointers.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DModule3Quiz.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DMoreonPointers.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DMulti.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DString.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DTheSizeof.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DUsingArrays.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DVariableNaming.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Form1.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FDefaultArguments.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunction_Overloading.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionParameters.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionswithMultipleParameters.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FIntroductiontoFunctions.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FModule4Quiz.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassbyReference.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassingArrays.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FRecursion.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FTheRandFunction.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OAbstraction.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OConstructors.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OEncapsulation.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofaClass.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofEncapsulation.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OModule_5_Quiz.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhat_isanObject.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhatisaClass.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Properties.Resources.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAdvanced.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.UCBeginner.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCHome.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCIntermediate.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_C__.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_Profile.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.USProficient.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.GenerateResource.cache
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CoreCompileInputs.cache
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CopyComplete
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.exe
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.pdb
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csprojAssemblyReference.cache
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.MoreOnClasses.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition1.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition2.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCConstObjects.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCDestructure.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCMemberInit.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCOverloading.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCQuiz6.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSelectionOperator.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSeperateFile.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheFriend.resources
+D:\LTTQ\Tik_TUT is new AfterMidTerm-1\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheThis.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe.config
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.pdb
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\MaterialSkin.dll
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.BasicConcepts.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.ConditionalsandLoops.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.DData.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Functions.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.MoreOnClasses.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Objects.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCAssignment.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCBasicArithmetic.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCComments.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCGettingTheTools.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCHelloWorld.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCModule1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCMoreonVariables.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCPrintingaText.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCVariables.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWhatisC.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWorkingwVariables.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CLogicalOperators.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CModule2.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheDoWhileLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheElse.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheforLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheIfState.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheSwitch.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheWhileLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CUsingaWhileLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DArrays.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DArraysinCalculations.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DDynamicMemory.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntFloat.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroduction.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroductiontoPointers.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DModule3Quiz.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DMoreonPointers.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DMulti.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DString.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DTheSizeof.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DUsingArrays.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DVariableNaming.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Form1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FDefaultArguments.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunction_Overloading.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionParameters.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionswithMultipleParameters.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FIntroductiontoFunctions.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FModule4Quiz.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassbyReference.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassingArrays.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FRecursion.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FTheRandFunction.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition2.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCConstObjects.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCDestructure.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCMemberInit.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCOverloading.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCQuiz6.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSelectionOperator.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSeperateFile.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheFriend.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheThis.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OAbstraction.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OConstructors.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OEncapsulation.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofaClass.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofEncapsulation.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OModule_5_Quiz.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhat_isanObject.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhatisaClass.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Properties.Resources.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAdvanced.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.UCBeginner.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCHome.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCIntermediate.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_C__.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_Profile.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.USProficient.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.GenerateResource.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CoreCompileInputs.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CopyComplete
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.exe
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.pdb
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCTeam.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csprojAssemblyReference.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.frmError.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Khánh 29-05-2018\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAbout.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe.config
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.pdb
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\MaterialSkin.dll
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csprojAssemblyReference.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.BasicConcepts.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.ConditionalsandLoops.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.DData.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Functions.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.MoreOnClasses.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Objects.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCAssignment.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCBasicArithmetic.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCComments.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCGettingTheTools.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCHelloWorld.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCModule1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCMoreonVariables.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCPrintingaText.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCVariables.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWhatisC.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWorkingwVariables.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CLogicalOperators.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CModule2.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheDoWhileLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheElse.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheforLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheIfState.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheSwitch.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheWhileLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CUsingaWhileLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DArrays.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DArraysinCalculations.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DDynamicMemory.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntFloat.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroduction.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroductiontoPointers.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DModule3Quiz.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DMoreonPointers.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DMulti.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DString.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DTheSizeof.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DUsingArrays.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DVariableNaming.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Form1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.frmError.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FDefaultArguments.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunction_Overloading.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionParameters.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionswithMultipleParameters.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FIntroductiontoFunctions.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FModule4Quiz.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassbyReference.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassingArrays.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FRecursion.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FTheRandFunction.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition2.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCConstObjects.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCDestructure.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCMemberInit.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCOverloading.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCQuiz6.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSelectionOperator.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSeperateFile.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheFriend.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheThis.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OAbstraction.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OConstructors.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OEncapsulation.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofaClass.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofEncapsulation.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OModule_5_Quiz.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhat_isanObject.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhatisaClass.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Properties.Resources.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAbout.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAdvanced.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.UCBeginner.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCHome.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCIntermediate.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCTeam.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_C__.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_Profile.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.USProficient.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.GenerateResource.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CoreCompileInputs.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CopyComplete
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.exe
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\2018-20180529T111407Z-001\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.pdb
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe.config
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.pdb
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\MaterialSkin.dll
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csprojResolveAssemblyReference.cache
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.BasicConcepts.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.ConditionalsandLoops.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.DData.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Functions.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.MoreOnClasses.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Objects.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCAssignment.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCBasicArithmetic.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCComments.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCGettingTheTools.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCHelloWorld.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCModule1.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCMoreonVariables.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCPrintingaText.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCVariables.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWhatisC.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWorkingwVariables.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CLogicalOperators.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CModule2.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheDoWhileLoop.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheElse.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheforLoop.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheIfState.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheSwitch.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheWhileLoop.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CUsingaWhileLoop.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DArrays.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DArraysinCalculations.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DDynamicMemory.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntFloat.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroduction.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroductiontoPointers.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DModule3Quiz.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DMoreonPointers.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DMulti.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DString.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DTheSizeof.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DUsingArrays.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DVariableNaming.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Form1.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.frmError.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FDefaultArguments.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunction_Overloading.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionParameters.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionswithMultipleParameters.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FIntroductiontoFunctions.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FModule4Quiz.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassbyReference.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassingArrays.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FRecursion.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FTheRandFunction.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition1.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition2.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCConstObjects.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCDestructure.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCMemberInit.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCOverloading.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCQuiz6.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSelectionOperator.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSeperateFile.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheFriend.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheThis.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OAbstraction.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OConstructors.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OEncapsulation.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofaClass.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofEncapsulation.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OModule_5_Quiz.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhat_isanObject.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhatisaClass.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Properties.Resources.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAbout.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAdvanced.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.UCBeginner.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCHome.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCIntermediate.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCTeam.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_C__.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_Profile.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.USProficient.resources
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.GenerateResource.Cache
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.exe
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.pdb
+D:\LastestVersion-20180531T033736Z-001\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe.config
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.exe
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.pdb
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csprojResolveAssemblyReference.cache
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.BasicConcepts.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.ConditionalsandLoops.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.DData.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Functions.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.MoreOnClasses.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Objects.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCAssignment.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCBasicArithmetic.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCComments.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCGettingTheTools.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCHelloWorld.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCModule1.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCMoreonVariables.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCPrintingaText.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCVariables.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWhatisC.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWorkingwVariables.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CLogicalOperators.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CModule2.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheDoWhileLoop.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheElse.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheforLoop.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheIfState.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheSwitch.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheWhileLoop.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CUsingaWhileLoop.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DArrays.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DArraysinCalculations.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DDynamicMemory.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntFloat.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroduction.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroductiontoPointers.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DModule3Quiz.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DMoreonPointers.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DMulti.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DString.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DTheSizeof.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DUsingArrays.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DVariableNaming.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Form1.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.frmError.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FDefaultArguments.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunction_Overloading.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionParameters.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionswithMultipleParameters.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FIntroductiontoFunctions.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FModule4Quiz.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassbyReference.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassingArrays.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FRecursion.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FTheRandFunction.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition1.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition2.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCConstObjects.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCDestructure.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCMemberInit.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCOverloading.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCQuiz6.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSelectionOperator.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSeperateFile.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheFriend.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheThis.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OAbstraction.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OConstructors.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OEncapsulation.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofaClass.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofEncapsulation.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OModule_5_Quiz.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhat_isanObject.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhatisaClass.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Properties.Resources.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAbout.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAdvanced.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.UCBeginner.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCHome.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCIntermediate.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCTeam.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_C__.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_Profile.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.USProficient.resources
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.GenerateResource.Cache
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.pdb
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\MaterialSkin.dll
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe.config
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.pdb
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\MaterialSkin.dll
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.BasicConcepts.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.ConditionalsandLoops.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.DData.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Functions.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.MoreOnClasses.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Objects.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCAssignment.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCBasicArithmetic.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCComments.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCGettingTheTools.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCHelloWorld.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCModule1.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCMoreonVariables.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCPrintingaText.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCVariables.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWhatisC.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWorkingwVariables.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CLogicalOperators.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CModule2.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheDoWhileLoop.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheElse.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheforLoop.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheIfState.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheSwitch.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheWhileLoop.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CUsingaWhileLoop.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DArrays.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DArraysinCalculations.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DDynamicMemory.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntFloat.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroduction.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroductiontoPointers.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DModule3Quiz.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DMoreonPointers.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DMulti.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DString.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DTheSizeof.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DUsingArrays.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DVariableNaming.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Form1.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.frmError.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FDefaultArguments.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunction_Overloading.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionParameters.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionswithMultipleParameters.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FIntroductiontoFunctions.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FModule4Quiz.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassbyReference.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassingArrays.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FRecursion.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FTheRandFunction.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition1.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition2.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCConstObjects.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCDestructure.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCMemberInit.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCOverloading.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCQuiz6.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSelectionOperator.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSeperateFile.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheFriend.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheThis.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OAbstraction.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OConstructors.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OEncapsulation.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofaClass.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofEncapsulation.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OModule_5_Quiz.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhat_isanObject.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhatisaClass.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Properties.Resources.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAbout.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAdvanced.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.UCBeginner.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCGuide.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCHome.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCIntermediate.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCTeam.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_C__.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_Profile.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.USProficient.resources
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.GenerateResource.cache
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CoreCompileInputs.cache
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CopyComplete
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.exe
+C:\Users\Quoc Khanh Pro Ta\Desktop\ĐồÁn_2\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.pdb
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe.config
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.pdb
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\MaterialSkin.dll
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csprojAssemblyReference.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.BasicConcepts.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.ConditionalsandLoops.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.DData.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Functions.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.MoreOnClasses.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Objects.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCAssignment.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCBasicArithmetic.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCComments.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCGettingTheTools.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCHelloWorld.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCModule1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCMoreonVariables.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCPrintingaText.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCVariables.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWhatisC.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWorkingwVariables.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CLogicalOperators.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CModule2.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheDoWhileLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheElse.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheforLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheIfState.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheSwitch.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheWhileLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CUsingaWhileLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DArrays.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DArraysinCalculations.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DDynamicMemory.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntFloat.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroduction.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroductiontoPointers.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DModule3Quiz.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DMoreonPointers.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DMulti.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DString.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DTheSizeof.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DUsingArrays.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DVariableNaming.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Form1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.frmError.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FDefaultArguments.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunction_Overloading.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionParameters.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionswithMultipleParameters.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FIntroductiontoFunctions.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FModule4Quiz.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassbyReference.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassingArrays.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FRecursion.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FTheRandFunction.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition2.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCConstObjects.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCDestructure.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCMemberInit.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCOverloading.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCQuiz6.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSelectionOperator.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSeperateFile.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheFriend.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheThis.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OAbstraction.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OConstructors.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OEncapsulation.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofaClass.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofEncapsulation.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OModule_5_Quiz.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhat_isanObject.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhatisaClass.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Properties.Resources.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAbout.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAdvanced.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.UCBeginner.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCGuide.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCHome.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCIntermediate.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCTeam.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_C__.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_Profile.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.USProficient.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.GenerateResource.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CoreCompileInputs.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CopyComplete
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.exe
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.pdb
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe.config
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.exe
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\Tik_TUT.pdb
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\bin\Debug\MaterialSkin.dll
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csprojAssemblyReference.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.BasicConcepts.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.ConditionalsandLoops.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.DData.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Functions.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.MoreOnClasses.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Objects.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCAssignment.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCBasicArithmetic.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCComments.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCGettingTheTools.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCHelloWorld.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCModule1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCMoreonVariables.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCPrintingaText.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCVariables.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWhatisC.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWorkingwVariables.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CLogicalOperators.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CModule2.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheDoWhileLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheElse.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheforLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheIfState.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheSwitch.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheWhileLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CUsingaWhileLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DArrays.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DArraysinCalculations.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DDynamicMemory.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntFloat.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroduction.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroductiontoPointers.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DModule3Quiz.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DMoreonPointers.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DMulti.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DString.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DTheSizeof.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DUsingArrays.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Data.DVariableNaming.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Form1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.frmError.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FDefaultArguments.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunction_Overloading.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionParameters.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionswithMultipleParameters.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FIntroductiontoFunctions.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FModule4Quiz.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassbyReference.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassingArrays.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FRecursion.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FTheRandFunction.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition2.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCConstObjects.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCDestructure.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCMemberInit.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCOverloading.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCQuiz6.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSelectionOperator.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSeperateFile.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheFriend.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheThis.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OAbstraction.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OConstructors.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OEncapsulation.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofaClass.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofEncapsulation.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OModule_5_Quiz.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhat_isanObject.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhatisaClass.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.Properties.Resources.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAbout.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAdvanced.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.UCBeginner.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCGuide.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCHome.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCIntermediate.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCTeam.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_C__.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_Profile.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.User_Control.USProficient.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.GenerateResource.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CoreCompileInputs.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CopyComplete
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.exe
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT is new AfterMidTerm\Tik_TUT\obj\Debug\Tik_TUT.pdb
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\bin\Debug\Tik_TUT.exe.config
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\bin\Debug\Tik_TUT.exe
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\bin\Debug\Tik_TUT.pdb
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\bin\Debug\MaterialSkin.dll
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csprojAssemblyReference.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.BasicConcepts.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.ConditionalsandLoops.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.DData.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Functions.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.MoreOnClasses.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.A_Manager.Objects.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCAssignment.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCBasicArithmetic.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCComments.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCGettingTheTools.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCHelloWorld.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCModule1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCMoreonVariables.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCPrintingaText.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCVariables.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWhatisC.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Basic_Concepts.BCWorkingwVariables.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CLogicalOperators.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CModule2.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheDoWhileLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheElse.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheforLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheIfState.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheSwitch.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CTheWhileLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Conditionals_and_Loops.CUsingaWhileLoop.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Data.DArrays.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Data.DArraysinCalculations.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Data.DDynamicMemory.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntFloat.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroduction.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Data.DIntroductiontoPointers.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Data.DModule3Quiz.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Data.DMoreonPointers.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Data.DMulti.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Data.DString.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Data.DTheSizeof.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Data.DUsingArrays.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Data.DVariableNaming.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Form1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.frmError.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FDefaultArguments.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunction_Overloading.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionParameters.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FFunctionswithMultipleParameters.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FIntroductiontoFunctions.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FModule4Quiz.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassbyReference.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FPassingArrays.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FRecursion.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Funtions.FTheRandFunction.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCComposition2.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCConstObjects.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCDestructure.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCMemberInit.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCOverloading.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCQuiz6.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSelectionOperator.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCSeperateFile.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheFriend.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.MOC.MOCTheThis.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OAbstraction.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OConstructors.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OEncapsulation.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofaClass.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OExampleofEncapsulation.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OModule_5_Quiz.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhat_isanObject.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Objects_Class.OWhatisaClass.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.Properties.Resources.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAbout.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAdvanced.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.UCBeginner.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCGuide.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCHome.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCIntermediate.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCTeam.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_C__.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_Profile.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.User_Control.USProficient.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.GenerateResource.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CoreCompileInputs.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT_AfterMidTerm.csproj.CopyComplete
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.exe
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\BaiNop_Nhom3_TikTut\ChuongTrinh\Đồ Án Final_17062018\Đồ Án\LastestVersion\Tik_TUT final\Tik_TUT\obj\Debug\Tik_TUT.pdb

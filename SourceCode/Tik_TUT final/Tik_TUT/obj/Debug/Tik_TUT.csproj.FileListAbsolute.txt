@@ -1,0 +1,47 @@
+D:\LTTQ\Tik_TUT\Tik_TUT\bin\Debug\Tik_TUT.exe.config
+D:\LTTQ\Tik_TUT\Tik_TUT\bin\Debug\Tik_TUT.exe
+D:\LTTQ\Tik_TUT\Tik_TUT\bin\Debug\Tik_TUT.pdb
+D:\LTTQ\Tik_TUT\Tik_TUT\obj\Debug\Tik_TUT.Form1.resources
+D:\LTTQ\Tik_TUT\Tik_TUT\obj\Debug\Tik_TUT.Properties.Resources.resources
+D:\LTTQ\Tik_TUT\Tik_TUT\obj\Debug\Tik_TUT.UCBeginner.resources
+D:\LTTQ\Tik_TUT\Tik_TUT\obj\Debug\Tik_TUT.csproj.GenerateResource.Cache
+D:\LTTQ\Tik_TUT\Tik_TUT\obj\Debug\Tik_TUT.exe
+D:\LTTQ\Tik_TUT\Tik_TUT\obj\Debug\Tik_TUT.pdb
+D:\LTTQ\Tik_TUT\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCHome.resources
+D:\LTTQ\Tik_TUT\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAdvanced.resources
+D:\LTTQ\Tik_TUT\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCIntermediate.resources
+D:\LTTQ\Tik_TUT\Tik_TUT\obj\Debug\Tik_TUT.User_Control.USProficient.resources
+D:\LTTQ\Tik_TUT is new\Tik_TUT\bin\Debug\Tik_TUT.exe.config
+D:\LTTQ\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.exe
+D:\LTTQ\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.pdb
+D:\LTTQ\Tik_TUT is new\Tik_TUT\bin\Debug\Tik_TUT.exe
+D:\LTTQ\Tik_TUT is new\Tik_TUT\bin\Debug\Tik_TUT.pdb
+D:\LTTQ\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.Form1.resources
+D:\LTTQ\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.Properties.Resources.resources
+D:\LTTQ\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAdvanced.resources
+D:\LTTQ\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.UCBeginner.resources
+D:\LTTQ\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCHome.resources
+D:\LTTQ\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCIntermediate.resources
+D:\LTTQ\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.User_Control.USProficient.resources
+D:\LTTQ\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.csproj.GenerateResource.Cache
+D:\LTTQ\Tik_TUT is new\Tik_TUT\bin\Debug\MaterialSkin.dll
+D:\LTTQ\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_Profile.resources
+D:\LTTQ\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_C__.resources
+D:\LTTQ\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.csprojResolveAssemblyReference.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\bin\Debug\Tik_TUT.exe.config
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\bin\Debug\Tik_TUT.exe
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\bin\Debug\Tik_TUT.pdb
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.Form1.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.Properties.Resources.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCAdvanced.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.UCBeginner.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCHome.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UCIntermediate.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_C__.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.User_Control.UC_Profile.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.User_Control.USProficient.resources
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.csproj.GenerateResource.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.csproj.CoreCompileInputs.cache
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.csproj.CopyComplete
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.exe
+D:\VIET TIEN\UIT K11- 2017\Hoc Ki 4\Windows Programing\Tik_TUT is new\Tik_TUT\obj\Debug\Tik_TUT.pdb
