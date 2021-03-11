@@ -1,7 +1,4 @@
 # TikTut Application
-<p align="center">
-   <img width="100%" src ="https://image.freepik.com/free-vector/auto-service-repair-car-maintenance-workshop-with-mechanics-team_333239-260.jpg" />
-</p>
 
 <br> **Subject:** Visual programming - IT008
 <br> **Instructor:** Teacher Phan Nguyet Minh
